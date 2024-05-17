@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1RTrHsJvHIrFELzhzaDs9XEn580//Yoqbn3mkPROaDn2PZJyHDb14Esva6FlsuVJo8Idu9UwK/mX+3NDk7+Pg==",
+  "dgSpecHash": "3iA4cwL5s8b5rilai0wCyoH6V1A+GVAh3IIiFv47RsFmDgDmXXLRJAstAF/5OYU+26gzjwYYrgx76tMMLRaJOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Infra\\App.Infra.csproj",
+  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

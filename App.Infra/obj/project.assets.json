@@ -1219,11 +1219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Infra\\App.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj",
       "projectName": "App.Infra",
-      "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Infra\\App.Infra.csproj",
+      "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj",
       "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Infra\\obj\\",
+      "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1240,8 +1240,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Application\\App.Application.csproj": {
-              "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Application\\App.Application.csproj"
+            "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj": {
+              "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj"
             }
           }
         }

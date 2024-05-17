@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENQoRCZXpKmdkx+mHRt5YIyUg8V3vAdQgh4AMCP16CsE0ThxxxTYDSU0lQmj8NIHOhKsmCCz8UJqz9GpYYdjCg==",
+  "dgSpecHash": "j4ELOAMXZeWVOCELyr1mpDgxJWQT310JQYzhuUfs4JdNUFPYdP04qN0xGGNkezSDw+KltJbiZjvkgNDK2yPX4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
+  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

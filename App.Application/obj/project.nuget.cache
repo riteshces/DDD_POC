@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVG+zje8r4iHqIPJLGohXdKUvuXTC+Diri9N885RePzmJMiOFpyoYlTPFTz6RWDs1wXwG5v6XlrDMXuw7DcyeA==",
+  "dgSpecHash": "Fr90c5rNgOGtQJjMLwIqmeNVwAgHtBO4ZBEmuesuW5TJql2JPxct5slm2Eu9kJbsuuWdCcD05fWuM238phdvDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Application\\App.Application.csproj",
+  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ritesh.tak\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
