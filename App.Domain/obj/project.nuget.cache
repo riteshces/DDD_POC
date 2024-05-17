@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SCnP9p+ievHg1+n/ftT9G44qLSpFe423r8XB9GdcrlxYIJjFuZFNjAxvI4f1GIODQ/bokB0acwkTsuMqJMBTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\App.Domain\\App.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ritesh.tak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

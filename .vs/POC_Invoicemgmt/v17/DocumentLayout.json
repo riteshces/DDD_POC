@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378C3EE5-8A40-4E86-B74F-36A8FC9195E3}|POC_Invoicemgmt\\POC_Invoicemgmt.csproj|c:\\users\\ritesh.tak\\onedrive - ces limited\\documents\\projects\\poc\\poc_invoicemgmt - copy\\poc_invoicemgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C3EE5-8A40-4E86-B74F-36A8FC9195E3}|POC_Invoicemgmt\\POC_Invoicemgmt.csproj|solutionrelative:poc_invoicemgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\POC_Invoicemgmt\\Program.cs",
+              "RelativeDocumentMoniker": "POC_Invoicemgmt\\Program.cs",
+              "ToolTip": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_Invoicemgmt - Copy\\POC_Invoicemgmt\\Program.cs*",
+              "RelativeToolTip": "POC_Invoicemgmt\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:16:54.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

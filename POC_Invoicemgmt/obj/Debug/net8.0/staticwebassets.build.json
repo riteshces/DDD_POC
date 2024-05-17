@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mCON9liqv02obKQRvj+8c8InSYwrL+qWhWxSe5bi5vw=",
+  "Source": "POC_Invoicemgmt",
+  "BasePath": "_content/POC_Invoicemgmt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
