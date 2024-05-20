@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POC_Invoicemgmt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3aceaffb9f8e25a02b10b781e2616ee1f85915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e925b925ed041ddd2d092f92416230a9e0a2a8dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("POC_Invoicemgmt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POC_Invoicemgmt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

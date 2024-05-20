@@ -165,57 +165,68 @@ C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgm
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.pdb
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.genruntimeconfig.cache
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\POC_Invoicemgmt\obj\Debug\net8.0\ref\POC_Invoicemgmt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.csproj.AssemblyReference.cache
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.AssemblyInfoInputs.cache
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.AssemblyInfo.cs
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.csproj.CoreCompileInputs.cache
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.sourcelink.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\refint\POC_Invoicemgmt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.pdb
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.exe
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.deps.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.runtimeconfig.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.pdb
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\AWSSDK.Core.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Ben.Demystifier.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\DnsClient.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MediatR.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Bson.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Driver.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Driver.Core.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\SharpCompress.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Snappier.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\ZstdSharp.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Application.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Domain.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Infra.dll
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Infra.pdb
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Application.pdb
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\bin\Debug\net8.0\App.Domain.pdb
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.POC_Invoicemgmt.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.build.POC_Invoicemgmt.props
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POC_Invoicemgmt.props
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POC_Invoicemgmt.props
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\scopedcss\bundle\POC_Invoicemgmt.styles.css
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invo.A07B6BEE.Up2Date
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.genruntimeconfig.cache
-C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\POC_Invoicemgmt\obj\Debug\net8.0\ref\POC_Invoicemgmt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\appsettings.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.exe
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.deps.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.runtimeconfig.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\POC_Invoicemgmt.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Ben.Demystifier.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MediatR.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Snappier.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Application.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Domain.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Infra.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Infra.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Application.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.csproj.AssemblyReference.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.AssemblyInfoInputs.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.AssemblyInfo.cs
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.csproj.CoreCompileInputs.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.sourcelink.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.POC_Invoicemgmt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.build.POC_Invoicemgmt.props
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POC_Invoicemgmt.props
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POC_Invoicemgmt.props
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\scopedcss\bundle\POC_Invoicemgmt.styles.css
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invo.A07B6BEE.Up2Date
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\refint\POC_Invoicemgmt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\POC_Invoicemgmt.genruntimeconfig.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\obj\Debug\net8.0\ref\POC_Invoicemgmt.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\BCrypt.Net-Core.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\POC_Invoicemgmt\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

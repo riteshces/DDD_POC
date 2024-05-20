@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.Application
-build_property.ProjectDir = C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt - Copy\App.Application\
+build_property.ProjectDir = C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
