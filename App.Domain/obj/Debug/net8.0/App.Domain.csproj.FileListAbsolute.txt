@@ -11,3 +11,16 @@ C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgm
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\App.Domain\obj\Debug\net8.0\App.Domain.pdb
 C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_Invoicemgmt\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\bin\Debug\net8.0\App.Domain.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.sourcelink.json
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+C:\Users\ritesh.tak\OneDrive - CES Limited\Documents\Projects\POC\POC_DDD_Main\DDD_POC\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll

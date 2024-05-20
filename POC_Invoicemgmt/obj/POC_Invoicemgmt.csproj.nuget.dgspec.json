@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj": {}
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj": {
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\App.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\App.Application.csproj",
         "projectName": "App.Application",
-        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj",
+        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\App.Application.csproj",
         "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\obj\\",
+        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -52,6 +52,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
             },
             "Ben.Demystifier": {
               "target": "Package",
@@ -82,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj": {
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\App.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\App.Infra.csproj",
         "projectName": "App.Infra",
-        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj",
+        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\App.Infra.csproj",
         "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\obj\\",
+        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +180,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj": {
-                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Application\\App.Application.csproj"
+              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\App.Application.csproj": {
+                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Application\\App.Application.csproj"
               }
             }
           }
@@ -197,6 +201,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -238,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj": {
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
+        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
         "projectName": "POC_Invoicemgmt",
-        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
+        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\POC_Invoicemgmt\\POC_Invoicemgmt.csproj",
         "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\POC_Invoicemgmt\\obj\\",
+        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\POC_Invoicemgmt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -262,8 +270,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj": {
-                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Infra\\App.Infra.csproj"
+              "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\App.Infra.csproj": {
+                "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Infra\\App.Infra.csproj"
               }
             }
           }

@@ -1,25 +1,19 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Domain.Entity
 {
     public class InvoiceMaster
     {
         [BsonId]
-        [BsonElement("_id"),BsonRepresentation(BsonType.ObjectId)]
+        [BsonElement("_id"), BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
         [BsonElement("invoiceno"), BsonRepresentation(BsonType.String)]
         public string InvoiceNo { get; set; }
 
         [BsonElement("invoicedate"), BsonRepresentation(BsonType.String)]
-        public string InvoiceDate {  get; set; }
+        public string InvoiceDate { get; set; }
 
         [BsonElement("customer")]
         public CustomerMaster Customer { get; set; }
@@ -40,6 +34,6 @@ namespace App.Domain.Entity
         public decimal GSTAmount { get; set; }
 
         [BsonElement("payableamount"), BsonRepresentation(BsonType.Decimal128)]
-        public decimal PayableAmount { get; set;}
+        public decimal PayableAmount { get; set; }
     }
 }

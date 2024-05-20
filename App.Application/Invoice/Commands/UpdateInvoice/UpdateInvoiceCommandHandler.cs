@@ -1,14 +1,8 @@
-﻿using App.Application.Invoice.Commands.CreateInvoice;
-using App.Application.Invoice.Queries.GetInvoices;
+﻿using App.Application.Invoice.Queries.GetInvoices;
 using App.Domain.Entity;
 using App.Domain.Repository;
 using AutoMapper;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Invoice.Commands.UpdateInvoice
 {
@@ -36,7 +30,7 @@ namespace App.Application.Invoice.Commands.UpdateInvoice
                 SubTotalAmount = request.SubTotalAmount,
                 TaxableAmount = request.TaxableAmount
             };
-            var invoice = await _invoiceRepository.UpdateInvoiceAsync(request.Id,invoiceEntity);
+            var invoice = await _invoiceRepository.UpdateInvoiceAsync(request.Id, invoiceEntity);
             return _mapper.Map<InvoiceViewModel>(invoice);
         }
     }

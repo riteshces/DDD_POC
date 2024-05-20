@@ -1,15 +1,10 @@
 ﻿using App.Application.Invoice.Queries.GetInvoices;
 using App.Domain.Entity;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Invoice.Commands.UpdateInvoice
 {
-    public class UpdateInvoiceCommand:IRequest<InvoiceViewModel>
+    public class UpdateInvoiceCommand : IRequest<InvoiceViewModel>
     {
         public string Id { get; set; }
         public string InvoiceNo { get; set; }

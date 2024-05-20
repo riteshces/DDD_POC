@@ -10,7 +10,7 @@
         public ApiResponse(string status, int responsecode, T data)
         {
             Status = status;
-            ResponseCode=responsecode;
+            ResponseCode = responsecode;
             Data = data;
         }
     }

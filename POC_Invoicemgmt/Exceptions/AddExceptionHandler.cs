@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Diagnostics;
-using Microsoft.AspNetCore.Http;
 
 namespace POC_Invoicemgmt.Exceptions
 {
@@ -36,5 +35,5 @@ namespace POC_Invoicemgmt.Exceptions
         }
     }
 
-    
+
 }

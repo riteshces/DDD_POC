@@ -1,15 +1,10 @@
 ﻿using App.Application.Customer.Queries.GetCustomers;
 using MediatR;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Customer.Commands.UpdateCustomer
 {
-    public class UpdateCustomerCommand:IRequest<CustomerViewModel>
+    public class UpdateCustomerCommand : IRequest<CustomerViewModel>
     {
         [Required(ErrorMessage = "Id must not be empty.")]
         [Length(24, 24, ErrorMessage = "Id must be only 24 characters.")]

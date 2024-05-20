@@ -25,6 +25,7 @@ namespace App.Infra.Data
             _mongoDatabase = mongoClient.GetDatabase(mongoUrl.DatabaseName);
         }
 
+        public IMongoCollection<UserRegistration> UserRegistrations => _mongoDatabase.GetCollection<UserRegistration>("userregistration");
         public IMongoCollection<CustomerMaster> CustomerMasters => _mongoDatabase.GetCollection<CustomerMaster>("customermaster");
         public IMongoCollection<InvoiceMaster> Invoices => _mongoDatabase.GetCollection<InvoiceMaster>("invoicemaster");
     }

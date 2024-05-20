@@ -1,11 +1,6 @@
 ﻿using App.Application.Customer.Queries.GetCustomers;
 using MediatR;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Customer.Commands.CreateCustomer
 {
@@ -33,7 +28,7 @@ namespace App.Application.Customer.Commands.CreateCustomer
         public string ContactNo { get; set; }
 
         [Required(ErrorMessage = "Email id must not be empty.")]
-        [EmailAddress(ErrorMessage ="Email id is incorrect.")]
+        [EmailAddress(ErrorMessage = "Email id is incorrect.")]
         public string EmailId { get; set; }
     }
 }

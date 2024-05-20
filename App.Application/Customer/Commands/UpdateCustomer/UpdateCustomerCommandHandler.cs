@@ -3,11 +3,6 @@ using App.Domain.Entity;
 using App.Domain.Repository;
 using AutoMapper;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Customer.Commands.UpdateCustomer
 {
@@ -23,9 +18,16 @@ namespace App.Application.Customer.Commands.UpdateCustomer
         }
         public async Task<CustomerViewModel> Handle(UpdateCustomerCommand request, CancellationToken cancellationToken)
         {
-            var customerEntity = new CustomerMaster { Address=request.Address, City=request.City, ContactNo=request.ContactNo,
-             Country=request.Country, EmailId=request.EmailId,
-                CustomerName = request.CustomerName, Pincode=request.Pincode};
+            var customerEntity = new CustomerMaster
+            {
+                Address = request.Address,
+                City = request.City,
+                ContactNo = request.ContactNo,
+                Country = request.Country,
+                EmailId = request.EmailId,
+                CustomerName = request.CustomerName,
+                Pincode = request.Pincode
+            };
             var customer = await _customerRepository.UpdateCustomerAsync(request.Id, customerEntity);
             return _mapper.Map<CustomerViewModel>(customer);
         }

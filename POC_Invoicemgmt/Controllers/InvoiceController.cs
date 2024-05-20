@@ -1,15 +1,15 @@
 ﻿using App.Application.Customer.Queries.GetCustomerById;
-using App.Application.Customer.Queries.GetCustomers;
 using App.Application.Invoice.Commands.CreateInvoice;
 using App.Application.Invoice.Commands.UpdateInvoice;
 using App.Application.Invoice.Queries.GetInvoiceById;
 using App.Application.Invoice.Queries.GetInvoices;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using POC_Invoicemgmt.Common;
 
 namespace POC_Invoicemgmt.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class InvoiceController : APIControllerBase
@@ -25,7 +25,7 @@ namespace POC_Invoicemgmt.Controllers
         [HttpGet("{id:length(24)}")]
         public async Task<IActionResult> GetInvoiceById(string id)
         {
-            var invoice = await Mediator.Send(new GetInvoiceByIdQuery { Id=id});
+            var invoice = await Mediator.Send(new GetInvoiceByIdQuery { Id = id });
             if (invoice == null)
             {
                 return NotFound(new ApiResponse<string>("Not Found", 404, "No data found"));

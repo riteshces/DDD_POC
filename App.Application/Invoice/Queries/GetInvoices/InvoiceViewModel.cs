@@ -1,16 +1,9 @@
 ﻿using App.Application.Common.Mappings;
 using App.Domain.Entity;
-using MongoDB.Bson.Serialization.Attributes;
-using MongoDB.Bson;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace App.Application.Invoice.Queries.GetInvoices
 {
-    public class InvoiceViewModel:IMapFrom<InvoiceMaster>
+    public class InvoiceViewModel : IMapFrom<InvoiceMaster>
     {
         public string Id { get; set; }
         public string InvoiceNo { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj": {}
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC\\DDD_POC\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\POC_DDD_Main\\DDD_POC\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",
